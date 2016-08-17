@@ -1,11 +1,11 @@
 # Awesome Ionic 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An "awesome" list of the Ionic 2 resources 
+An "awesome" list of the Ionic 2 resources
 
 ### Ionic 2
 > "Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies."
 
-##### Current Ionic 2 version: 
+##### Current Ionic 2 version:
 [![npm version](https://badge.fury.io/js/ionic-framework.svg)](https://badge.fury.io/js/ionic-framework)
 
 
@@ -92,6 +92,7 @@ An "awesome" list of the Ionic 2 resources
 #### Open Source Projects
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
 * [IonicRealty](https://github.com/ccoenraets/ionic2-realty)
+* [TaskIt: A Todoist client with Ionic](https://github.com/prijindal/taskit)
 
 #### Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
